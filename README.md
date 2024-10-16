@@ -18,10 +18,6 @@ $ forge build
 
 #### Test
 
-```shell
-$ forge test
-```
-
 #### Gas Snapshots
 
 ```shell
